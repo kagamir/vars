@@ -1,0 +1,2 @@
+# vars
+- office=true
