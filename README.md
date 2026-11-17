@@ -1,2 +1,2 @@
 # vars
-- office=true
+- office=enable
